@@ -1,0 +1,4 @@
+com\cicdaws\product\ServletInitializer.class
+com\cicdaws\product\ProductApplication.class
+com\cicdaws\product\Product.class
+com\cicdaws\product\ProductController.class
