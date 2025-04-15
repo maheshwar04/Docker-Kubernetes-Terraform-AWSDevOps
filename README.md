@@ -35,7 +35,7 @@ This repository contains multiple projects demonstrating expertise in cloud-nati
  - Code Build
  - Code Pipeline
  - Docker & AWS ECR
- - AWS EKS for deployment
+ - AWS ECS for deployment
  - Pipeline automates build → test → package → deploy
 
 ---
