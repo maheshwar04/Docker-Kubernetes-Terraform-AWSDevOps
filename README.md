@@ -45,7 +45,7 @@ This repository contains multiple projects demonstrating expertise in cloud-nati
 - **Java, Spring Boot**
 - **Docker, Docker Compose**
 - **Kubernetes, Minikube, EKS**
-- **AWS (Lambda, ECR, EKS, IAM)**
+- **AWS (Lambda, ECR, EKS, ECS, IAM)**
 - **Terraform**
 - **AWS SDK for Java**
 ---
