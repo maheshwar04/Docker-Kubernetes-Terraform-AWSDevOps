@@ -16,7 +16,7 @@ This repository contains multiple projects demonstrating expertise in cloud-nati
 - Calls AWS services like Lambda or S3 from within a Spring Boot app
 
 ### 📦 `Minikube-kubernetes`
-- Microservice deployments on **Minikube**
+- Deployments on **Minikube**
 - Kubernetes manifests for services, deployments, and ingress
 - Ideal for local development and testing Kubernetes clusters
 
