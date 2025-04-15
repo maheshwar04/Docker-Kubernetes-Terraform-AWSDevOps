@@ -50,7 +50,7 @@ Each folder contains its own setup instructions and `README.md`. Follow those to
 ## 📌 Author
 
 **Maheshwar Nag**  
-Email: contact@maheshwar.tech
+Email: contact@maheshwar.tech\
 GitHub: [maheshwar04](https://github.com/maheshwar04)
 
 
