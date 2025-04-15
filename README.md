@@ -19,7 +19,7 @@ Microservices deployed locally using **Minikube** and Kubernetes. Includes `kube
 Build and deploy a Spring Boot app in a **Docker container**, push to **AWS ECR**, and deploy on **EKS (Elastic Kubernetes Service)** using `eksctl` and `kubectl`.
 
 ### 🔹 `product-aws-cicd`
-An automated CI/CD pipeline using ****, **GitHub** and **AWS services** for a sample `product`. Includes:
+An automated CI/CD pipeline using , **GitHub** and **AWS services** for a sample `product`. Includes:
 - Code build
 - Code Pipeline
 - Docker image creation
