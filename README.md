@@ -4,40 +4,50 @@ This repository contains multiple projects demonstrating expertise in cloud-nati
 
 ---
 
-## 📁 Repository Overview
+## 📁 Project Structure
 
-### 🔹 `AWSLambda`
-A serverless application using **AWS Lambda (Java)**. Demonstrates event-driven architecture and lightweight backend services.
+### 📦 `AWSLambda`
+- AWS Lambda function written in **Java**
+- Demonstrates serverless function deployment
+- Useful for lightweight backend logic and event-driven use cases
 
-### 🔹 `AWSSDK`
-Spring Boot integration with **AWS SDK**, showcasing how to invoke AWS services (e.g., Lambda, S3, etc.) programmatically from Java.
+### 📦 `AWSSDK`
+- Spring Boot integration with **AWS SDK for Java**
+- Calls AWS services like Lambda or S3 from within a Spring Boot app
 
-### 🔹 `Minikube-kubernetes`
-Microservices deployed locally using **Minikube** and Kubernetes. Includes `kubectl` manifests, and basic cluster management.
+### 📦 `Minikube-kubernetes`
+- Microservice deployments on **Minikube**
+- Kubernetes manifests for services, deployments, and ingress
+- Ideal for local development and testing Kubernetes clusters
 
-### 🔹 `SpringBoot-Docker-ECR-EKS`
-Build and deploy a Spring Boot app in a **Docker container**, push to **AWS ECR**, and deploy on **EKS (Elastic Kubernetes Service)** using `eksctl` and `kubectl`.
+### 📦 `SpringBoot-Docker-ECR-EKS`
+- Spring Boot containerized with **Docker**
+- Pushed to **AWS ECR** and deployed to **AWS EKS**
+- Uses `eksctl`, `kubectl` for deployment
 
-### 🔹 `product-aws-cicd`
-An automated CI/CD pipeline using , **GitHub** and **AWS services** for a sample `product`. Includes:
-- Code build
-- Code Pipeline
-- Docker image creation
-- ECR push
-- EKS deployment
+### 📦 `Terraform`
+- Infrastructure as Code (IaC) using **Terraform**
+- Automates setup of AWS resources (Ex-EC2)
+- Reusable modules for production-ready infrastructure
+
+### 📦 `product-aws-cicd`
+ - CI/CD pipeline for `product` using:
+ - Code Build
+ - Code Pipeline
+ - Docker & AWS ECR
+ - AWS EKS for deployment
+ - Pipeline automates build → test → package → deploy
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Technologies Used
 
 - **Java, Spring Boot**
-- **Docker**
-- **AWS Lambda, ECR, EKS, IAM**
-- **Kubernetes, Minikube**
-- **Terraform, AWS CLI, eksctl**
-- **GitHub**
+- **Docker, Docker Compose**
+- **Kubernetes, Minikube, EKS**
+- **AWS (Lambda, ECR, EKS, IAM)**
+- **Terraform**
 - **AWS SDK for Java**
-
 ---
 
 ## 🔧 How to Use
