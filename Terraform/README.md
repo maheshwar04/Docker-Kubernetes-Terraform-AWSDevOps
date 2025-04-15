@@ -59,6 +59,8 @@ This project demonstrates how to provision basic AWS infrastructure using [Terra
    ```bash
    terraform plan
    ```
+![Screenshot 2025-04-15 152612](https://github.com/user-attachments/assets/4261d4e8-0120-4886-a25f-893533371d79)
+
 
 5. **Apply the configuration**:
 
@@ -67,6 +69,7 @@ This project demonstrates how to provision basic AWS infrastructure using [Terra
    ```
 
    Confirm with `yes` when prompted.
+   ![Screenshot 2025-04-15 152821](https://github.com/user-attachments/assets/aac4c2cb-6824-4cc9-895c-89be299d2e84)
 
 6. **Destroy the infrastructure**:
 
@@ -75,6 +78,7 @@ This project demonstrates how to provision basic AWS infrastructure using [Terra
    ```bash
    terraform destroy
    ```
+![Screenshot 2025-04-15 154804](https://github.com/user-attachments/assets/f2e9342b-abbd-4164-aa65-33c4db2d898c)
 
 ## 🧾 Notes
 
